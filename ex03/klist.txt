@@ -1,0 +1,7 @@
+Credentials cache: API:35236
+        Principal: szheng@42.US.ORG
+
+  Issued                Expires               Principal
+May 14 12:52:28 2018  May 14 22:52:28 2018  krbtgt/42.US.ORG@42.US.ORG
+May 14 12:52:29 2018  May 14 22:52:28 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
+May 14 12:55:32 2018  May 14 22:52:28 2018  host/vgs-fn1.42.us.org@42.US.ORG

@@ -1,0 +1,3 @@
+
+
+ldapsearch -o -L
