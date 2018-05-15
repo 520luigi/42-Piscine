@@ -1,0 +1,4 @@
+dn: uid=szheng,ou=may,ou=2018,ou=people,dc=42,dc=us,dc=org
+changetype: modify
+replace: mobile
+mobile: 3479355506
